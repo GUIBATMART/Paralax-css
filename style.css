@@ -65,3 +65,23 @@ p{
     letter-spacing: 5px;
     text-transform: uppercase;
 }
+
+@media(max-width:450px){
+    .caixa1{
+        background-image: url(./img/Capturar1.PNG);
+    }
+    
+    .caixa2{
+        background-image: url(./img/Capturar2.PNG);
+    }
+    
+    .caixa3{
+        background-image: url(./img/Capturar3.PNG);
+    }
+    
+    .caixa4{
+        background-image: url(./img/2.PNG);
+    }
+    
+    
+}
